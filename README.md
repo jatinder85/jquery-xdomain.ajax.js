@@ -1,4 +1,3 @@
-jQuery-Plugins
+jquery-xdomain.ajax.js
 ==============
 
-Useful jquery plugins
